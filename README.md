@@ -3,7 +3,7 @@
 (•_•) Cyber Security Student at Alqalam Universtiy<br/>
 (•_•) Coding Student at FreeCode Camp<br/>
 (•_•) i Create open source webpage to stay consistent<br/>
-(•_•) i make educational videos about cyber security and design on Instagram [https://www.instagram.com/_cyber__throne_/?utm_source=ig_web_button_share_sheet]
+(•_•) i make educational videos about cyber security and design on [Instagram](https://www.instagram.com/_cyber__throne_/?utm_source=ig_web_button_share_sheet)
 
 <!--
 **icyberthrone/icyberthrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
