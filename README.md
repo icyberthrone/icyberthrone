@@ -3,8 +3,8 @@
 (•_•) Cyber Security Student at Alqalam Universtiy<br/>
 (•_•) Coding Student at FreeCode Camp<br/>
 (•_•) i Create open source webpage to stay consistent<br/>
-(•_•) i make educational videos about cyber security and design on [Instagram](https://www.instagram.com/_cyber__throne_/?utm_source=ig_web_button_share_sheet)
-**
+(•_•) i make educational videos about cyber security and design on [Instagram](https://www.instagram.com/_cyber__throne)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/icyberthrone) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usman-Umar) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cyber_throne) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salzimat000@gmail.com) 
 
