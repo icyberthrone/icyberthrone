@@ -18,4 +18,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=icyberthrone&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->**
+<!-- Proudly created with GPR ( https://gprm.itsvg.in ) -->**
